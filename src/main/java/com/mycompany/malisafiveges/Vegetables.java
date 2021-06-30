@@ -188,6 +188,12 @@ public class Vegetables extends JFrame {
 																																																										//Bill(); 
 																																																										//generateReceipt();
 																																																										Balance();
+																																																										product_name.setText("");
+																																																										totalamount.setText("Total"); 
+																																																										price.setText("");
+																																																										
+																																																										
+																																																										((DefaultTableModel)table.getModel()).setRowCount(0);
 																																																									}
 																																																								});
 																																																								btnComplete.setBounds(540, 441, 117, 25);
