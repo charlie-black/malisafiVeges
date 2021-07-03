@@ -311,13 +311,5 @@ public class Vegetables extends JFrame {
 		return String.valueOf(productPrice * noOfItems);
 	}
 
-//	public void generateReceipt() {
-//		lblNo.setText(String.valueOf(dtm.getRowCount()));
-//	
-//		lblSub.setText(String.valueOf(sumTotal));
-//		lblVt.setText(String.valueOf(vat));
-//		totalPayable = (sumTotal - (sumTotal * 0.10)) + vat;
-//		lbltotalAmnt.setText(String.valueOf(totalPayable));
-//		panel_1.setVisible(true);
-//	}
+
 }
