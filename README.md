@@ -10,6 +10,6 @@ Picture screenshot of adding a new product
 
 
 Screenshot of product that was added being appended on the json array
-![](json.png)
+![](append.png)
 
 
